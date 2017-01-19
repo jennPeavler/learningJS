@@ -1,0 +1,65 @@
+body {
+  background-image:  url("background.jpg");
+  background-size: 1320px 800px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 720px;
+}
+
+div {
+  float: left;
+  display: block;
+  background: black;
+  color: white;
+  font-family: "Times New Roman", serif;
+  margin-top: -720px;
+  padding-left:  10px;
+  padding-right: 10px;
+
+}
+
+#latestOffer {
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+
+#hotelName {
+  margin: auto;
+}
+
+#roomRate {
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+#offerEnds {
+  font-size: 12px;
+}
+
+#specialRate {
+  font-size: 48px;
+  color: #F8E5B4;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#info {
+  margin-left: 900px;
+  text-align: center;
+  height: 660px;
+  font-family: 'Helvetica Neue', Roboto, verdana, sans-serif;
+  width: 200px;
+}
+
+#siteName {
+  margin-left: -8px;
+  width: 200px;
+  height: 100px;
+  font-weight: lighter;
+  font-stretch: expanded;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 60px;
+  letter-spacing: 2px;
+
+}
